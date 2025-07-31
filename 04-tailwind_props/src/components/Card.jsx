@@ -5,7 +5,6 @@ const Card = ({ username, btnText ="visit me" }) => {
 //   const username = "John Doe";
 //   const btnText = "Read More";
 
-
   return (
     <div className="relative h-[400px] w-[300px] rounded-md">
       <img
