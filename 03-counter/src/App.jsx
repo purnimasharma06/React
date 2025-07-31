@@ -24,10 +24,6 @@ function App() {
     }
 
   };
-
-
-
-
   // let [counter, setCounter] = useState(15)
   // const addValue = () => {
   //   //counter = counter + 1
