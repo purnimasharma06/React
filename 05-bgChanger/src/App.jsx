@@ -45,5 +45,3 @@ function App() {
 export default App
 /* why olive is coming after refreshing the page -  as olive is the default value for variable color and on 
 clicking button we are updating values & UI as well */
-
-
