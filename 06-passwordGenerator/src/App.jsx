@@ -23,7 +23,6 @@ function App() {
 
     setPassword(pass)
 
-
   }, [length, numberAllowed, charAllowed, setPassword])
 
 
