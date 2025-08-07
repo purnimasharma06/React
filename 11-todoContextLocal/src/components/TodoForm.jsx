@@ -11,7 +11,7 @@ function TodoForm() {
 
       if (!todo) return
 
-      addTodo({ todo, completed: false}) // todo:todo -> if the name of field and variable are same then write todo once , else write todo: todo
+      addTodo({ todo, completed: false}) // todo:todo -> if the name of field and variable are same then write todo once
       setTodo("")
     }
 
